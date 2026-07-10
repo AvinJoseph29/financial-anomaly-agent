@@ -13,9 +13,8 @@ A production-grade agentic Graph RAG system that investigates financial anomalie
 ### Demo Video
 
 
+https://github.com/user-attachments/assets/6330f036-de12-4fff-9f5e-e89215d2e966
 
-
-Uploading Financial Anomaly Agent Demo.mp4…
 
 
 
