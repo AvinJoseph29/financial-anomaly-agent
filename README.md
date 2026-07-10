@@ -26,11 +26,11 @@ https://github.com/user-attachments/assets/6330f036-de12-4fff-9f5e-e89215d2e966
 | <img width="558" height="1594" alt="image" src="https://github.com/user-attachments/assets/99aca546-263b-4be5-8f72-2eb41507284b" />
 
 
-| Neo4j Graph Explorer | Evaluation Results |
-|---|---|
+| Neo4j Graph Explorer |
+|---|
 | <img width="2940" height="1604" alt="image" src="https://github.com/user-attachments/assets/e04aab43-6413-4b77-b184-5682d8bc9147" /> <img width="2940" height="1456" alt="image" src="https://github.com/user-attachments/assets/f55b48e4-22b6-472f-96ef-be9fc2fdea92" />
-
- | <img width="810" height="713" alt="Screenshot 2026-07-11 at 3 45 14 AM" src="https://github.com/user-attachments/assets/9f67be30-23d6-42a8-9ab7-49da5c9f45b4" />|
+| Evaluation Results |
+| <img width="810" height="713" alt="Screenshot 2026-07-11 at 3 45 14 AM" src="https://github.com/user-attachments/assets/9f67be30-23d6-42a8-9ab7-49da5c9f45b4" />|
 
 ---
 
