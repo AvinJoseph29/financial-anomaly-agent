@@ -28,7 +28,9 @@ https://github.com/user-attachments/assets/6330f036-de12-4fff-9f5e-e89215d2e966
 
 | Neo4j Graph Explorer | Evaluation Results |
 |---|---|
-| ![Neo4j](docs/screenshots/neo4j_graph.png) | ![Eval](docs/screenshots/eval_results.png) |
+| <img width="2940" height="1604" alt="image" src="https://github.com/user-attachments/assets/e04aab43-6413-4b77-b184-5682d8bc9147" /> <img width="2940" height="1456" alt="image" src="https://github.com/user-attachments/assets/f55b48e4-22b6-472f-96ef-be9fc2fdea92" />
+
+ | ![Eval](docs/screenshots/eval_results.png) |
 
 ---
 
