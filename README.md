@@ -8,10 +8,11 @@ A production-grade agentic RAG system that investigates financial anomalies in S
 
 ## Demo
 
-<!-- 📹 Replace this section with your actual demo video link and screenshots -->
+
 
 ### Demo Video
-<img width="1202" height="654" alt="40457398-6B03-454A-955A-AC3473841292_1_105_c" src="https://github.com/user-attachments/assets/c4461368-ee1b-47c5-b60f-dd9d4eeff360" />
+https://github.com/user-attachments/assets/1a5cbf19-1641-478c-9f39-d04d6136cb88
+
 
 ### Screenshots
 
