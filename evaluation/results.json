@@ -1,0 +1,141 @@
+{
+  "summary": {
+    "avg_faithfulness": 0.806,
+    "avg_answer_relevancy": 0.846,
+    "avg_topic_coverage": 0.788,
+    "routing_accuracy": "10/10",
+    "queries_evaluated": 10
+  },
+  "results": [
+    {
+      "query": "What is the Altman Z-score for Enron in 2000?",
+      "route": "calculate",
+      "expected_route": "calculate",
+      "route_correct": true,
+      "faithfulness": 1.0,
+      "answer_relevancy": 0.886,
+      "topic_coverage": 0.8,
+      "latency_s": 2.07,
+      "answer_preview": "To: Financial Investigation Team\nFrom: Financial Investigation Analyst\nDate: [Current Date]\nSubject: Enron's Altman Z-score for 2000\n\nThe Altman Z-score is a widely used metric to assess a company's l",
+      "claims_total": 8,
+      "claims_supported": 8
+    },
+    {
+      "query": "What is SVB's current ratio for 2022?",
+      "route": "calculate",
+      "expected_route": "calculate",
+      "route_correct": true,
+      "faithfulness": 1.0,
+      "answer_relevancy": 0.864,
+      "topic_coverage": 1.0,
+      "latency_s": 2.03,
+      "answer_preview": "To: Financial Investigation Team\nFrom: Financial Investigation Analyst\nSubject: SVB's Current Ratio for 2022\n\nAs part of our financial analysis, we have calculated the current ratio for Silicon Valley",
+      "claims_total": 4,
+      "claims_supported": 4
+    },
+    {
+      "query": "Calculate the debt to equity ratio for Apple in 2023.",
+      "route": "calculate",
+      "expected_route": "calculate",
+      "route_correct": true,
+      "faithfulness": 1.0,
+      "answer_relevancy": 0.93,
+      "topic_coverage": 1.0,
+      "latency_s": 1.05,
+      "answer_preview": "To: Financial Investigation Team\nFrom: Financial Investigation Analyst\nDate: [Current Date]\nSubject: Debt to Equity Ratio for Apple in 2023\n\nWe have calculated the debt to equity ratio for Apple in 20",
+      "claims_total": 4,
+      "claims_supported": 4
+    },
+    {
+      "query": "Who audited Enron and what happened to them?",
+      "route": "graph",
+      "expected_route": "graph",
+      "route_correct": true,
+      "faithfulness": 0.0,
+      "answer_relevancy": 0.826,
+      "topic_coverage": 1.0,
+      "latency_s": 4.96,
+      "answer_preview": "To: Investigation Team\nFrom: Financial Investigation Analyst\nSubject: Enron Auditor Investigation\n\nThe question of who audited Enron and what happened to them is a significant one, given the high-prof",
+      "claims_total": 3,
+      "claims_supported": 0
+    },
+    {
+      "query": "Who audited SVB Financial Group?",
+      "route": "graph",
+      "expected_route": "graph",
+      "route_correct": true,
+      "faithfulness": 1.0,
+      "answer_relevancy": 0.787,
+      "topic_coverage": 0.5,
+      "latency_s": 4.22,
+      "answer_preview": "To: Investigation Team\nFrom: Financial Investigation Analyst\nSubject: Auditor of SVB Financial Group\n\nWe have been tasked with identifying the auditor of SVB Financial Group. Unfortunately, the provid",
+      "claims_total": 0,
+      "claims_supported": 0
+    },
+    {
+      "query": "What subsidiaries did Enron have?",
+      "route": "graph",
+      "expected_route": "graph",
+      "route_correct": true,
+      "faithfulness": 1.0,
+      "answer_relevancy": 0.776,
+      "topic_coverage": 0.33,
+      "latency_s": 5.0,
+      "answer_preview": "To: Investigation Team\nFrom: Financial Investigation Analyst\nSubject: Enron Subsidiaries\n\nBased on the provided evidence, we were unable to find any information regarding the subsidiaries of Enron [So",
+      "claims_total": 0,
+      "claims_supported": 0
+    },
+    {
+      "query": "What does Apple's 10-K say about supply chain risk?",
+      "route": "retrieve",
+      "expected_route": "retrieve",
+      "route_correct": true,
+      "faithfulness": 0.889,
+      "answer_relevancy": 0.879,
+      "topic_coverage": 0.75,
+      "latency_s": 8.3,
+      "answer_preview": "To: Financial Investigation Team\n\nFrom: Financial Investigation Analyst\n\nSubject: Apple's 10-K Disclosure on Supply Chain Risk\n\nBased on the provided excerpts from Apple's 10-K filings [Apple Inc., 20",
+      "claims_total": 9,
+      "claims_supported": 8
+    },
+    {
+      "query": "What risk factors does SVB disclose about interest rates?",
+      "route": "retrieve",
+      "expected_route": "retrieve",
+      "route_correct": true,
+      "faithfulness": 1.0,
+      "answer_relevancy": 0.89,
+      "topic_coverage": 1.0,
+      "latency_s": 10.3,
+      "answer_preview": "To: Financial Investigation Team\n\nFrom: Financial Investigation Analyst\n\nSubject: Risk Factors Disclosed by SVB Regarding Interest Rates\n\nBased on the provided document excerpts from SVB Financial Gro",
+      "claims_total": 8,
+      "claims_supported": 8
+    },
+    {
+      "query": "What does Enron's 10-K say about related party transactions?",
+      "route": "retrieve",
+      "expected_route": "retrieve",
+      "route_correct": true,
+      "faithfulness": 0.417,
+      "answer_relevancy": 0.899,
+      "topic_coverage": 1.0,
+      "latency_s": 10.45,
+      "answer_preview": "To: Investigation Team\nFrom: Financial Investigation Analyst\nSubject: Enron's 10-K Disclosure on Related Party Transactions\n\nOur review of Enron's 10-K filings reveals significant related party transa",
+      "claims_total": 12,
+      "claims_supported": 5
+    },
+    {
+      "query": "Who audited Goldman Sachs?",
+      "route": "graph",
+      "expected_route": "graph",
+      "route_correct": true,
+      "faithfulness": 0.75,
+      "answer_relevancy": 0.726,
+      "topic_coverage": 0.5,
+      "latency_s": 4.8,
+      "answer_preview": "To: Investigation Team\nFrom: Financial Investigation Analyst\nSubject: Auditor of Goldman Sachs\n\nWe have been requested to identify the auditor of Goldman Sachs. However, upon reviewing the provided ev",
+      "claims_total": 4,
+      "claims_supported": 3
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "company_key": "enron",
+  "company_name": "Enron Corp",
+  "ticker": "ENE",
+  "cik": "0001024401",
+  "accession": "0001024401-00-000002",
+  "form_type": "10-K",
+  "filed_date": "2000-03-30",
+  "period": "1999-12-31",
+  "filename": "0001024401-00-000002.txt",
+  "text_path": "data/raw_filings/enron/10K_19991231_000102440100000002.txt",
+  "char_count": 571191,
+  "word_count": 80626,
+  "fetched_at": "2026-06-29T22:57:03.060621",
+  "source_url": "https://www.sec.gov/Archives/edgar/data/1024401/000102440100000002/0001024401-00-000002.txt"
+}

@@ -1,0 +1,16 @@
+{
+  "company_key": "apple",
+  "company_name": "Apple Inc.",
+  "ticker": "AAPL",
+  "cik": "0000320193",
+  "accession": "0000320193-23-000106",
+  "form_type": "10-K",
+  "filed_date": "2023-11-03",
+  "period": "2023-09-30",
+  "filename": "aapl-20230930.htm",
+  "text_path": "data/raw_filings/apple/10K_20230930_000032019323000106.txt",
+  "char_count": 200687,
+  "word_count": 30649,
+  "fetched_at": "2026-06-29T23:40:06.531739",
+  "source_url": "https://www.sec.gov/Archives/edgar/data/320193/000032019323000106/aapl-20230930.htm"
+}

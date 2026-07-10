@@ -1,0 +1,16 @@
+{
+  "company_key": "svb",
+  "company_name": "SVB Financial Group",
+  "ticker": "SIVB",
+  "cik": "0000719739",
+  "accession": "0000719739-21-000023",
+  "form_type": "10-K",
+  "filed_date": "2021-03-01",
+  "period": "2020-12-31",
+  "filename": "sivb-20201231.htm",
+  "text_path": "data/raw_filings/svb/10K_20201231_000071973921000023.txt",
+  "char_count": 744140,
+  "word_count": 113798,
+  "fetched_at": "2026-06-29T22:39:53.161409",
+  "source_url": "https://www.sec.gov/Archives/edgar/data/719739/000071973921000023/sivb-20201231.htm"
+}
