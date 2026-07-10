@@ -65,41 +65,7 @@ What subsidiaries did Enron have?
 
 ## Architecture
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│                         React UI (Vite)                         │
-│  Sidebar · Chat thread · D3 Knowledge Graph · Citations panel   │
-└────────────────────────┬────────────────────────────────────────┘
-                         │  SSE streaming  /investigate/stream
-┌────────────────────────▼────────────────────────────────────────┐
-│                    FastAPI  (api/main.py)                        │
-│              Streaming · REST · graph_data builder              │
-└────────────────────────┬────────────────────────────────────────┘
-                         │
-┌────────────────────────▼────────────────────────────────────────┐
-│              LangGraph Agent  (agent/graph.py)                  │
-│                                                                 │
-│   ┌──────────┐    ┌───────────┐    ┌────────────┐              │
-│   │ Planner  │───▶│ Retriever │───▶│ Responder  │              │
-│   │  (LLM)   │    │           │    │   (LLM)    │              │
-│   └──────────┘    └─────┬─────┘    └────────────┘              │
-│         │               │                                        │
-│         │ calculate     ├── Vector search  →  Qdrant            │
-│         ▼               └── Graph traversal →  Neo4j            │
-│   ┌──────────┐                                                   │
-│   │Calculator│  Altman Z · Current Ratio · Debt/Equity          │
-│   └──────────┘                                                   │
-└─────────────────────────────────────────────────────────────────┘
-                         │
-┌────────────────────────▼────────────────────────────────────────┐
-│                      Data Layer                                  │
-│                                                                 │
-│  Qdrant (local)          Neo4j Desktop                          │
-│  1,385 vectors           43 nodes · 60+ relationships           │
-│  BAAI/bge-small-en-v1.5  Company → Auditor → Subsidiary        │
-│  9 SEC 10-K filings      → RiskFactor → Filing                 │
-└─────────────────────────────────────────────────────────────────┘
-```
+<img width="1024" height="1536" alt="image" src="https://github.com/user-attachments/assets/98dcb34c-69a8-4506-a9dd-2e69f0f32c31" />
 
 ### Agent Routing Logic
 
