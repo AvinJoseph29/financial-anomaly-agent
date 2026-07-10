@@ -19,11 +19,9 @@ https://github.com/user-attachments/assets/6330f036-de12-4fff-9f5e-e89215d2e966
 
 ### Screenshots
 
-| Chat Interface | 
+| Chat Interface with Knowledge Graph evidence| 
 |---|
 | <img width="2940" height="1600" alt="image" src="https://github.com/user-attachments/assets/849740c3-7e06-4e59-852c-c175b33e8be4" />
-|Knowledge Graph Evidence |
-| <img width="558" height="1594" alt="image" src="https://github.com/user-attachments/assets/99aca546-263b-4be5-8f72-2eb41507284b" />
 
 
 | Neo4j Graph Explorer |
