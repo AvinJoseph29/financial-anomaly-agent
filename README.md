@@ -11,7 +11,10 @@ A production-grade agentic Graph RAG system that investigates financial anomalie
 
 
 ### Demo Video
-https://github.com/user-attachments/assets/1a5cbf19-1641-478c-9f39-d04d6136cb88
+
+
+https://github.com/user-attachments/assets/32e0a9d7-53da-45c1-8f07-dfae91265efc
+
 
 
 ### Screenshots
