@@ -1,6 +1,6 @@
 # Financial Anomaly Investigation Agent
 
-A production-grade agentic RAG system that investigates financial anomalies in SEC 10-K filings. Built with LangGraph, Qdrant, Neo4j, FastAPI, and a React UI with live knowledge graph visualization.
+A production-grade agentic Graph RAG system that investigates financial anomalies in SEC 10-K filings. Built with LangGraph, Qdrant, Neo4j, FastAPI, and a React UI with live knowledge graph visualization.
 
 > **Stack:** Python 3.9 · LangGraph · Qdrant · Neo4j · Groq (Llama 3.3 70B) · FastAPI · React + Vite · D3.js
 
